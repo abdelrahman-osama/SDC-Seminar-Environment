@@ -43,7 +43,7 @@ Using Anaconda consists of the following:
 
 ```sh
 git clone https://github.com/abdelrahman-osama/SDC-Seminar-Environment.git
-cd CarND-Term1-Starter-Kit
+cd SDC-Seminar-Environment
 ```
 
 If you are on Windows, **rename**   
@@ -74,14 +74,6 @@ conda info --envs
 
 ```sh
 conda clean -tp
-```
-
-### Uninstalling 
-
-To uninstall the environment:
-
-```sh
-conda env remove -n carnd-term1
 ```
 
 ---
