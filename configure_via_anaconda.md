@@ -42,7 +42,7 @@ Using Anaconda consists of the following:
 **Setup** the `carnd-term1` environment. 
 
 ```sh
-git clone https://github.com/udacity/CarND-Term1-Starter-Kit.git
+git clone https://github.com/abdelrahman-osama/SDC-Seminar-Environment.git
 cd CarND-Term1-Starter-Kit
 ```
 
