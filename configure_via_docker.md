@@ -53,7 +53,7 @@ docker pull udacity/carnd-term1-starter-kit
 In your shell, navigate to the directory of a project, e.g.
 
 ```bash
-$ cd ~/src/CarND-LaneLines-P1
+$ cd ~/src/LaneLines-P1
 ```
 
 From within this directory, you are going to run a Jupyter server. In order
